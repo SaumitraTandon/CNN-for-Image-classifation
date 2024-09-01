@@ -61,4 +61,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact
 
 For any questions or suggestions, please open an issue or contact the project maintainers.
-```
